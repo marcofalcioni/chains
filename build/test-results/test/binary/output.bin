@@ -1,0 +1,2 @@
+„2020-03-31 23:54:27.374 [Test worker] INFO  ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active
+Œ2020-03-31 23:54:27.627 [Test worker] INFO  org.eclipse.jetty.util.log - Logging initialized @1227ms to org.eclipse.jetty.util.log.Slf4jLog
